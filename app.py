@@ -2,6 +2,9 @@ import streamlit as st
 
 st.set_page_config(page_title="SaatKolikZ", layout="wide")
 
+st.markdown("## ⌚ SaatKolikZ")
+st.markdown("📸 Instagram: [@os._.mn](https://www.instagram.com/os._.mn/)")
+
 # ===================== VERİ =====================
 mechanisms = {
     "Seiko 4R36": (-35, 45),
