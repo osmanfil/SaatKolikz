@@ -1,9 +1,7 @@
 import streamlit as st
 
-st.title("SaatKolikZ")
-
-ctk.set_appearance_mode("dark")
-ctk.set_default_color_theme("blue")
+st.title("⌚ SaatKolikZ")
+st.write("Uygulama çalışıyor")
 
 app = ctk.CTk()
 app.geometry("850x600")
